@@ -1,11 +1,10 @@
-import java.io.*;
 import java.util.*;
 class Program1
 {
-	public static void main(String args[])throws IOException
+	public static void main(String args[])
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Gimme a number");
+		System.out.println("Gimme a number bro");
 		int i=sc.nextInt();
 		System.out.println("Bruh the number you gave me was "+i);
 	}
